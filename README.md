@@ -1,0 +1,1 @@
+Simulamos el envío de un email, en donde vemos validaciones, setTimeOut y más.
